@@ -14,5 +14,6 @@ Thinks for the public to know
 - [ ] Why are felony cases taking so much longer than they used to?
 - [ ] What is the price of zoning changes?
 - [ ] Can we identify police officers that are acting criminally? 
+- [ ] Who owns Chicago?
 
 
