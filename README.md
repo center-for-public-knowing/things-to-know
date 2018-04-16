@@ -15,5 +15,5 @@ Thinks for the public to know
 - [ ] What is the price of zoning changes?
 - [ ] Can we identify police officers that are acting criminally? 
 - [ ] Who owns Chicago?
-
-
+- [ ] That CPS doesn't know their schools are performing
+- [ ] How are schools performing?
