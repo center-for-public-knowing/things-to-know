@@ -17,3 +17,4 @@ Thinks for the public to know
 - [ ] Who owns Chicago?
 - [ ] That CPS doesn't know their schools are performing
 - [ ] How are schools performing?
+- [ ] What is the effect of money in politics?
