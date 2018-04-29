@@ -18,3 +18,4 @@ Thinks for the public to know
 - [ ] That CPS doesn't know their schools are performing
 - [ ] How are schools performing?
 - [ ] What is the effect of money in politics?
+- [ ] That the changes in universal enrollment will accelerate school sorting and lead to more school closures
