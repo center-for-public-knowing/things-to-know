@@ -19,3 +19,5 @@ Thinks for the public to know
 - [ ] How are schools performing?
 - [ ] What is the effect of money in politics?
 - [ ] That the changes in universal enrollment will accelerate school sorting and lead to more school closures
+- [ ] Why are people coming to and leaving Chicago
+- [ ] Why are white families with children leaving when their kids become school age, what effect does that have on tax base?
